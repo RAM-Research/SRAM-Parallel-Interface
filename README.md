@@ -4,7 +4,7 @@ SRAM-Parallel-Interface is an Arduino-based program designed to interface with v
 # Hardware Requirements
 1. Arduino DUE
 2. TSOP-48 socket
-3. Parallel interfaced SRAM (example: IDT71V416)
+3. Parallel-interface SRAM (example: IDT71V416)
 
 # Device Connection 
 
