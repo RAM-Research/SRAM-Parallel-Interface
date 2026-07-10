@@ -6,7 +6,7 @@ SRAM-Parallel-Interface is an Arduino-based program designed to interface with v
 2. TSOP-48 socket
 3. Parallel-interface SRAM (example: IDT71V416)
 
-# Device Connection 
+# Pin Connection Table
 
 In the following table, the green numbers represent the Arduino Due pins, while the black numbers represent the SRAM chip pins.
 
