@@ -1,5 +1,5 @@
 # SRAM-Parallel-Interface
-sram-Parallel-interface is is an Arduino-based program designed to interface with various SRAM chips. New chips can be supported by creating chip-specific configuration functions.
+SRAM-Parallel-Interface is an Arduino-based program designed to interface with various SRAM chips. New chips can be supported by creating chip-specific configuration functions.
 
 # Hardware Requirements
 1. Arduino DUE
