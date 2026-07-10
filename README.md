@@ -7,8 +7,10 @@ SRAM-Parallel-Interface is an Arduino-based program designed to interface with v
 3. Parallel-interface SRAM (example: IDT71V416)
 
 # Pin Connection Table
-
 In the following table, the green numbers represent the Arduino Due pins, while the black numbers represent the SRAM chip pins.
 
 <img width="301" height="658" alt="image" src="https://github.com/user-attachments/assets/f01f456f-7924-4b6b-bd22-5443a2dfcfea" />
 
+# Notes
+1. This code is intended for research and educational use.
+2. Pin connection may need adjustment for different SRAM chips.
